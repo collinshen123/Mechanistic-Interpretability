@@ -1,6 +1,6 @@
 ### Easy Transformer Implementation
 
-This project provides a step-by-step guide to implementing a simplified version of the GPT-2 transformer model using the Easy-Transformer and PySvelte libraries. The implementation includes tokenization, model architecture, and text generation.
+This project shows step-by-step to implementing a simplified version of the GPT-2 transformer model using the Easy-Transformer and PySvelte libraries. The implementation includes tokenization, model architecture, and text generation.
 
 ### Setup
 To get started, install the necessary dependencies:
@@ -50,4 +50,4 @@ A demonstration is provided to train a small GPT-2 model on a dataset using a si
 - Running the training loop and logging the loss.
 
 ### Conclusion
-This project offers a detailed yet concise guide to understanding and implementing a transformer model from scratch, providing insights into the workings of modern language models like GPT-2.
+This project is detailed yet concise for understanding and implementing a transformer model from scratch. It provides insights into the workings of modern LLM's like Chat-GPT.
