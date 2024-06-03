@@ -5,6 +5,7 @@ This project provides a step-by-step guide to implementing a simplified version 
 ### Setup
 To get started, install the necessary dependencies:
 
+```python
 pip install git+https://github.com/neelnanda-io/Easy-Transformer.git@clean-transformer-demo
 pip install git+https://github.com/neelnanda-io/PySvelte.git
 pip install fancy_einsum
@@ -12,6 +13,7 @@ pip install einops
 pip install plotly
 pip install matplotlib
 pip install pysvelte
+```
 
 ### Model Components
 The model is built from several key components:
